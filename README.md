@@ -1,4 +1,4 @@
-# Algoritma-giri-ak-
+# Algoritma-giris-akisi
 Kullanıcı giriş süreci için algoritma ve akış diyagramı
 Algoritma Tasarımı ve Akış Diyagramı
 Proje Hakkında
